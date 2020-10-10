@@ -19,4 +19,4 @@ async def on_message(message):
             link = mensagem_separada[-1]
             await message.channel.send('Ok')
 
-client.run('NzY0NDk4NDczOTUzMTMyNTc0.X4HIrw.qVhMZiZVcmAv2hs2-YZMJ5VijyI')
+client.run('token')
